@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.header-1{
+    background-image: url(./photo_4.jpg);
+}
+
+.main-1{
+    background-image: url(./photo_7.jpg);
+}
+
+.footer-1{
+    width: 100%;
+    height: auto;
+}
+
+.h1{
+    margin: 10px 0;
+    font-size: 250px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+} 
+
+.card-1{
+    background: linear-gradient(to left top,rgb(230, 230, 230), rgb(48, 48, 48) ); 
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.card__img{
+    width: 200px;
+}
+
+.card__name{
+    margin: 30px 0;
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+}
+
+.card__musik{
+
+}
+
+.card-2{
+    background: linear-gradient(to left top,rgb(143,19,0), rgb(14, 25, 7));
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.card-3{
+    background: linear-gradient(to left top, rgb(120, 7, 7), rgb(229,149,45));
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.card-4{
+    background: linear-gradient(to left top,  rgb(13, 6, 14),  rgb(218, 175, 11), rgb(120, 3, 50));
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.card-5{
+    background: linear-gradient(to left top, rgb(214, 90, 55), rgb(28, 28, 25));
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.card-6{
+    background: linear-gradient(to left top,  rgb(194, 192, 183), rgb(20, 22, 21));
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.card-7{
+    background: linear-gradient(to left top,  rgb(223, 180, 225), rgb(101, 48, 154));
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.card-8{
+    background: linear-gradient(to left top,rgb(255, 255, 0), rgb(2, 2, 0) );
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+    padding-top: 30px;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
